@@ -9,9 +9,11 @@ This repo contains the client application for the Taraminator project, which is 
 1. Clone the repository using following command (replace [url] with actual repository url):
 
 git clone [url]
+
 2. Navigate to "build" folder
 
 cd build
+
 3. Use following commands to compile:
 
 cmake ..
