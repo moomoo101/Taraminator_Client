@@ -1,1 +1,0 @@
-/home/visioneers-client/Desktop/client/build/CMakeFiles/client_viewer.dir
