@@ -17,6 +17,7 @@ cd build
 3. Use following commands to compile:
 
 cmake ..
+
 sudo make
 ### To run client application
 sudo ./client_viewer [host_ip] [port]
